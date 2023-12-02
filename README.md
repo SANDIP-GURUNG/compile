@@ -69,11 +69,12 @@ python compile.py
 ## CONNECT WITH US :
 
 [![Messenger](https://img.shields.io/badge/Messenger-Chat-blue?style=for-the-badge&logo=messenger)](https://m.me/j/AbZltMIVrGlcZi6j/)
-<a href="https://github.com/SANDIP-GURUNG"><img title="Github" src="https://img.shields.io/badge/BINOD-XD-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/SANDIP-GURUNG"><img title="Github" src="https://img.shields.io/badge/SANDIP-GURUNG-brightgreen?style=for-the-badge&logo=github"></a>
 [![Instagram](https://img.shields.io/badge/FACEBOOK-FOLLOW-red?style=for-the-badge&logo=facebook)](https://facebook.com/sandipghotaneygurung)
 [![Instagram](https://img.shields.io/badge/FACEBOOK-FOLLOW-red?style=for-the-badge&logo=facebook)](https://facebook.com/sandipghotaneygurung)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/sandip_gurung_10)
 [![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://SANDIP-GURUNG.github.io)
 
-# Acknowledgements
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=SANDIP-GURUNG....!+)
+
 ## Thanks For Using This Tool <span style='font-size:45px;'>&#128536;</span> <span style='font-size:45px;'>&#128525;</span>
